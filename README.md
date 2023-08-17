@@ -10,6 +10,9 @@ I would like to thank the entire Hackintosh community and special thanks to NOOT
 
 I am also open to suggestions from all of you to improve MacOS on this laptop.
 
+For any troubleshooting please follow the great Dortania guide
+* https://dortania.github.io/OpenCore-Install-Guide/
+
 ## OpenCore version: 0.9.3 ##
 
 ## macOS: 12.6.8 ##
@@ -30,6 +33,10 @@ I am also open to suggestions from all of you to improve MacOS on this laptop.
 * Audio (AppleALC layout-id=11)
 
 ## Installation instructions: ##
+* Download EFI from this repo
+* Download https://github.com/corpnewt/GenSMBIOS to generate the MLB/ROM/Serial Number/UUID
+* Download https://github.com/corpnewt/ProperTree to change the config.plist with the generated MLB/ROM/Serial Number/UUID
+![iMacPro-smbios 22c77175](https://github.com/kefrulz/ThinkpadRyzen-3500U-igpu-Hackintosh/assets/9220848/12877beb-8ab9-4034-bb1f-0364653851f1)
 * Download Open Core Legacy Patcher on another working MAC
 * Download Monterey
 * Create the USB installer (skip installing of OCLP Efi)
