@@ -23,7 +23,7 @@ Network
 Battery Status
 Audio (AppleALC layout-id=11)
 
-Installation instructions:
+Installation instructions: 
 
 Download Open Core Legacy Patcher on another working MAC
 Download Monterey
