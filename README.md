@@ -35,7 +35,7 @@ For any troubleshooting please follow the great Dortania guide
 ## Installation instructions: ##
 * Download EFI from this repo
 * Download https://github.com/corpnewt/GenSMBIOS to generate the MLB/ROM/Serial Number/UUID
-* Download https://github.com/corpnewt/ProperTree to change the config.plist with the generated MLB/ROM/Serial Number/UUID
+* Download https://github.com/corpnewt/ProperTree to change the config.plist with the generated MLB/ROM/Serial Number/UUID (i have replaced them with XXXX values so it does not work if you skip this step)
 ![iMacPro-smbios 22c77175](https://github.com/kefrulz/ThinkpadRyzen-3500U-igpu-Hackintosh/assets/9220848/12877beb-8ab9-4034-bb1f-0364653851f1)
 * Download Open Core Legacy Patcher on another working MAC
 * Download Monterey
