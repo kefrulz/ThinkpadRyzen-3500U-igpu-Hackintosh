@@ -36,7 +36,7 @@ For any troubleshooting please follow the great Dortania guide
 * Download EFI from this repo
 * Download OCAT https://github.com/ic005k/OCAuxiliaryTools
 * Open Config in OCAT and go to PI(Platform Info) and generate a new System Product Name (This will generate all Paltform Info details for your new Hackintosh) and then Save (Don't worry about any errors in Validation, they show up since when you download OCAT it does not have latest OpenCore version attached. OPTIONAL: To solve this go to OCAT>Upgrade OpenCore and Kexts and press on Get latest version of Opencore) Then Save.
-![iMacPro-smbios 22c77175](https://github.com/kefrulz/ThinkpadRyzen-3500U-igpu-Hackintosh/assets/9220848/12877beb-8ab9-4034-bb1f-0364653851f1)
+![Screenshot 2023-12-02 at 15 41 34](https://github.com/kefrulz/ThinkpadRyzen-3500U-igpu-Hackintosh/assets/9220848/471792f2-9f5e-431a-8b43-b05c5318fbfe)
 * Download Open Core Legacy Patcher on another working MAC
 * Download Monterey/Ventura
 * Create the USB installer (skip installing of OCLP Efi)
