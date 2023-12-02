@@ -1,5 +1,5 @@
 # ThinkpadRyzen-3500U-igpu-Hackintosh
-Hackintosh Monterey for Ryzen Thinkpad T495 laptop
+Hackintosh Monterey/Ventura for Ryzen Thinkpad T495 laptop
 
 ![image](https://github.com/kefrulz/ThinkpadRyzen-3500U-igpu-Hackintosh/assets/9220848/f760539f-fe7f-4be9-85af-c284438a6f6e)
 
@@ -38,15 +38,15 @@ For any troubleshooting please follow the great Dortania guide
 * Open Config in OCAT and go to PI(Platform Info) and generate a new System Product Name (This will generate all Paltform Info details for your new Hackintosh) and then Save (Don't worry about any errors in Validation, they show up since when you download OCAT it does not have latest OpenCore version attached. OPTIONAL: To solve this go to OCAT>Upgrade OpenCore and Kexts and press on Get latest version of Opencore) Then Save.
 ![iMacPro-smbios 22c77175](https://github.com/kefrulz/ThinkpadRyzen-3500U-igpu-Hackintosh/assets/9220848/12877beb-8ab9-4034-bb1f-0364653851f1)
 * Download Open Core Legacy Patcher on another working MAC
-* Download Monterey
+* Download Monterey/Ventura
 * Create the USB installer (skip installing of OCLP Efi)
 * Download https://github.com/benbaker76/EFI-Agent to mount the EFI
 * Paste the EFI from this repo inside a EFI Folder (Structure should be EFI>EFI>(OC and OC folders)
 * Boot from USB
-* Select Monterey installer (DMG)
+* Select Monterey/Ventura installer (DMG)
 * Follow Setup
 * Format Disk as APFS - GUID (if you have issues, just format first to ExFAT - MBR and then to APFS - GUID)
-* Install MACOS Monterey
+* Install MACOS Monterey/Ventura
 * Boot again from USB - Select MACOS installer
 * Do this as many times needed until the Disk name you selected earlier when formatting appeares
 * Enjoy your Hackintosh :)
